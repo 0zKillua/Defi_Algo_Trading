@@ -15,7 +15,7 @@ docs/
 running_instructions.txt
 remappings.txt
 node_modules/
-lib/
+lib
 
 */.DS_Store
 package.json
